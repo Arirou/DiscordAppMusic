@@ -1,0 +1,11 @@
+matplotlib
+discord.py
+pypresence
+yt-dlp
+python-dotenv
+numpy
+jikanpy
+discord
+requests
+PyNaCl
+spotipy

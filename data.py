@@ -1,0 +1,1 @@
+PlaylistImage = "https://media.discordapp.net/attachments/719298400180371506/1240576491620663388/unnamed.png?ex=66471064&is=6645bee4&hm=594a6098a145bfe112fd9501503843a1545a59a40d3a71d5f6b5f566e6ba9432&=&format=webp&quality=lossless&width=437&height=437"
